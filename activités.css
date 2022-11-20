@@ -1,0 +1,16 @@
+p
+{
+font-size: 14px; /* Paragraphes de 14 pixels */
+}
+h1,i
+{
+font-style: italic;
+font-size: 30px; /* Titres de 40 pixels */
+text-align: center;
+}
+body
+{
+background-image:url("/home/karl/Documents/Siteweb/image/FB_IMG_16688995578553558.jpg");
+background-position: top right;
+background-repeat: no-repeat;
+}

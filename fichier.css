@@ -1,0 +1,32 @@
+p
+{
+font-size: 14px; /* Paragraphes de 14 pixels */
+}
+h1
+{
+font-style: italic;
+font-size: 30px; /* Titres de 40 pixels */
+text-align: center;
+}
+body
+{
+background-image:url("/home/karl/Documents/Siteweb/image/48877512_s.jpg");
+background-position: top right;
+background-repeat: no-repeat;
+}
+a /* Liens par défaut (non survolés) */
+{
+text-decoration: none;
+color: red;
+font-style: italic;
+}
+a:hover /* Apparence au survol des liens */
+{
+text-decoration: underline;
+color: green;
+}
+footer
+{
+background-color: black; /* Le fond de la page sera noir */
+color: white; /* Le texte de la page sera blanc */
+}

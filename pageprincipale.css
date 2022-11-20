@@ -1,0 +1,43 @@
+i
+{
+font-style: italic;
+font-size: 30px; /* Titres de 40 pixels */
+text-align: center;
+}
+p
+{
+font-size: 14px; /* Paragraphes de 14 pixels */
+}
+nav
+{
+float: left;
+width: 150px;
+border: 1px solid black;
+}
+nav
+{
+position: absolute;
+right: 0px;
+bottom: 0px;
+}
+img{
+right:1px;}
+body
+{
+background-image:url("file:///home/karl/Documents/Siteweb/image/FB_IMG_16688995783052770.jpg");
+background-position: top right;
+background-repeat: no-repeat;
+}
+a /* Liens par défaut (non survolés) */
+{
+text-decoration: none;
+color: green;
+font-style: italic;
+}
+a:hover /* Apparence au survol des liens */
+{
+text-decoration: underline;
+color: red;
+}
+li{
+color:red}

@@ -1,0 +1,43 @@
+p
+{
+font-size: 14px; /* Paragraphes de 14 pixels */
+}
+h1
+{
+font-style: italic;
+font-size: 30px; /* Titres de 40 pixels */
+}
+body
+{
+background-image:url("/home/karl/Documents/Siteweb/image/maintenance-informatique.jpg");
+background-position: bottom right;
+background-repeat: no-repeat;
+}
+a /* Liens par défaut (non survolés) */
+{
+text-decoration: none;
+color: green;
+font-style: italic;
+}
+a:hover /* Apparence au survol des liens */
+{
+text-decoration: underline;
+color: blue;
+}
+nav
+{
+float: left;
+width: 150px;
+border: 1px solid black;
+}
+nav
+{
+position: absolute;
+right: 0px;
+bottom: 0px;
+}
+body
+{
+background-color: red; /* Le fond de la page sera noir */
+color: black; /* Le texte de la page sera blanc */
+}
